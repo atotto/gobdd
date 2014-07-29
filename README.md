@@ -1,4 +1,6 @@
-gobdd
-=====
+# go test code generator
 
-BDD in Go
+(working in progress)
+
+generate from gherkin(cucumber) format.
+
