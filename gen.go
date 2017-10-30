@@ -9,7 +9,7 @@ import (
 	"strings"
 	"text/template"
 
-	"code.google.com/p/go.tools/imports"
+	"golang.org/x/tools/imports"
 
 	"github.com/atotto/gobdd/internal"
 	"github.com/muhqu/go-gherkin"
